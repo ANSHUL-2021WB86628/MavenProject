@@ -12,6 +12,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println(MESSAGE);
 	System.out.println("Hello Jenkins CLI");
+	    System.out.println("Hello Jenkins CLI");
     }
 
     public String getMessage() {
